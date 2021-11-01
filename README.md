@@ -17,6 +17,17 @@ To get a local copy up and running follow these simple steps:
 2. Press the "Code" button and copy the link.
 3. Clone it using git command `git clone <link>`.
 
+## Getting Started
+
+- Ruby version
+- System dependencies
+- Configuration
+- Database creation
+- Database initialization
+- How to run the test suite
+- Services (job queues, cache servers, search engines, etc.)
+- Deployment instructions
+
 ## :blue_book: Learning Objectives
 
 - Install Ruby on Rails framework.
@@ -43,3 +54,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](LICENSE) licensed.
+
